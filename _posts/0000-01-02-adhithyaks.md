@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hi, I'm Adhithyaks.
+I'm from thodupuzha.
 Use the left arrow to go back!
